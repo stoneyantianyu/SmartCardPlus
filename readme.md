@@ -11,7 +11,8 @@ support view & install & delete card content:application, executable load files,
 support get card available memory.  
 support KMC diversify: CPG202 / CPG212.  
 support des/3des,sha1,rsa(max 16384 bit).   
-support JCOP Debug(port 8050).  
+support JCOP Debug(port 8050). 
  
+this is a WPF program,may you need [.NET Framework 4.0+](https://www.microsoft.com/en-us/download/details.aspx?id=17718)  
 
 [My Blog](http://map.im)   
