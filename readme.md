@@ -1,4 +1,4 @@
-version:2.2.0  
+version:2.2.2   
 Test passed on win xp(x86), win 7(x86/x64), win 10(x64).  
 
 support scp01/scp02, security level:No secure / C-MAC / C-DECRYPTION and C-MAC.  
